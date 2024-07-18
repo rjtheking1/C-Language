@@ -3,13 +3,10 @@
 int main()
 {
 	int x,y,z;
-	
 	printf("Enter the x number :");
 	scanf("%d",&x);
-	
 	printf("Enter the y number :");
 	scanf("%d",&y);
-	
 	printf("Enter the z number :");
 	scanf("%d",&z);        
 	
