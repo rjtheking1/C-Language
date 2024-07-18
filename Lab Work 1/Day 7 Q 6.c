@@ -1,10 +1,9 @@
 #include<stdio.h>
-#include<conio.h>
 
-void main()
+int main()
 {
-	// WAP TO CHECK GIVEN NUMBER IS EVEN OR ODD. WITHOUT USING % OPERATOR
 	int x,y;
+	
 	printf("Enter The Value Of Number :");
 	scanf("%d",&x);
 	
