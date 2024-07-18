@@ -6,7 +6,6 @@ int main()
 	
 	printf("Enter the value of number =");
 	scanf("%d",&x);
-	
 	reminder=x%2;
 	if(reminder==1)
 	{
