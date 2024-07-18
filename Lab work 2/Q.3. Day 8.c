@@ -3,16 +3,12 @@
 int main()
 {
 	int a,b,c,d;
-	
 	printf("Enter The Value Of a :");
 	scanf("%d",&a);
-	
 	printf("Enter The Value Of b :");
 	scanf("%d",&b);
-	
 	printf("Enter The Value Of c :");
 	scanf("%d",&c);
-	
 	printf("Enter The Value Of d :");
 	scanf("%d",&d);
 	
