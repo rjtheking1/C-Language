@@ -1,13 +1,14 @@
 #include<stdio.h>
-#include<conio.h>
 
-void main()
+int main()
 {
 	int x,y,z;
 	printf("Enter Marks Of Maths :");
 	scanf("%d",&x);
+	
 	printf("Enter Marks Of English :");
 	scanf("%d",&y);
+	
 	printf("Enter Marks Of Science :");
 	scanf("%d",&z);
 	
