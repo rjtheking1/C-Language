@@ -3,10 +3,8 @@
 int main()
 {
 	int a,b;
-	
 	printf("Enter The Value Of First Number : ");
 	scanf("%d",&a);
-	
 	printf("Enter The Value OF Second Number : ");
 	scanf("%d",&b);
 	
