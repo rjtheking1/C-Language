@@ -3,10 +3,8 @@
 int main()
 {
 	int x;
-	
 	printf("Enter any Number : ");
 	scanf("%d",&x);
-	
 	if(x>0)
 	{
 		printf("The number Is Positive");
