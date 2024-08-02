@@ -14,7 +14,7 @@ void main()
 		n = n/10;
 		i++;
 	}
-	printf("Your number is %d digit number",i);
+	printf("Your number are %d digit number",i);
 	
 	
 	
