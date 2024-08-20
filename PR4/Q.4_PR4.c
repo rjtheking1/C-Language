@@ -2,6 +2,8 @@
 
 void main()
 {
+	//Q.4 Develop a program that prints the given Inverted Left half triangle pattern using a nested for loop.
+	
 	int i,j,z;
 	
 	for(i=5; i>=1; i--)
