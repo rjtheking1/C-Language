@@ -2,6 +2,8 @@
 
 void main()
 {
+	//Q.3 Develop a program that prints the given Left half triangle pattern using a nested for loop.
+	
 	int i,j,y;
 	for(i=5; i>=1; i--)
 	{
