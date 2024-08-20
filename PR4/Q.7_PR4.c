@@ -2,6 +2,8 @@
 
 void main()
 {
+	//Q.7 Develop a program that prints the given Custom alphabetic pattern using a nested for loop.
+	
 	int i,y;
 	
 	for(i=1; i<=5; i++)
