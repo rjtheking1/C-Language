@@ -2,6 +2,8 @@
 
 void main()
 {
+	//Q.6 Develop a program that prints the given Custom numeric pattern using a nested for loop.
+	
 	int i,j,y,l;
 	
 	for(i=1; i<=5; i++)
